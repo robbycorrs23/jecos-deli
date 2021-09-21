@@ -1,0 +1,21 @@
+.main {
+    margin: 0;
+    width: 100%;
+    padding: 1em 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.a {
+    padding: .5rem;
+}
+
+.social {
+    padding: 1rem;
+}

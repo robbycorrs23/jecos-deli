@@ -1,0 +1,24 @@
+$font-stack: monospace, serif;
+$primary-color: red;
+
+
+.nav {
+    background-color: $primary-color;
+    color: white;
+    margin: 0;
+    padding: .5rem 1rem;
+
+    ul {
+        padding: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        list-style-type: none;
+    }
+
+    li {
+        &:hover {
+            color: yellow;
+        }
+    }
+}

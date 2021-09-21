@@ -1,0 +1,38 @@
+{
+  "name": "jecos-deli",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-responsive-carousel": "^3.2.21",
+    "sass": "^1.39.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbycorrs23/jecos-deli.git"
+  },
+  "keywords": [
+    "jecos",
+    "deli"
+  ],
+  "author": "Robert Corrado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbycorrs23/jecos-deli/issues"
+  },
+  "homepage": "https://github.com/robbycorrs23/jecos-deli#readme"
+}
